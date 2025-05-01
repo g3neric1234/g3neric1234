@@ -12,9 +12,6 @@
 - ⚡ Fun fact: rico, guapo y mentiroso
 - 💬 Extra: free rapha, @enchalecado
 
--   _ o
-- / / \_
-- _/\
--   /
-  
+##  _ o / / \_ _/\   /
+
 ![](g3n.jpg)
