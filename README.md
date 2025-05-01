@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## Im g3neric, professional skidder, lammer & wife stealer
+
 - 🔭 I’m currently working on Nothing
 - 🌱 I’m currently learning Golang & C
 - 👯 I’m looking to collaborate on LaMafiaDelHentai, LaGorraLeaks
