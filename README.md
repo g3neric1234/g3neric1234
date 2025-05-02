@@ -14,6 +14,13 @@
 
 [yes](https://skillicons.dev/icons?i=js,html,css,js,bash,python,golang,c)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,js,bash,python,golang,c" />
+  </a>
+</p>
+
+
 ##  _ o / / \_ _/\   /
 
 ![](g3n.jpg)
