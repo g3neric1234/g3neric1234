@@ -2,15 +2,15 @@
 
 ## Im g3neric, professional skidder, lammer & wife stealer
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working on "Pwned Dashboard v1"
 - 🌱 I’m currently learning Golang & C
-- 👯 I’m looking to collaborate on LaMafiaDelHentai, LaGorraLeaks
+- 👯 I’m looking to collaborate on LaMafiaDelHentai & LaGorraLeaks
 - 🤔 I’m looking for help with Defalt's Mom
-- 💬 Ask me about my picho
+- 💬 Ask me about electronics
 - 📫 How to reach me: Semi-Impossible
-- 😄 Pronouns: TocaViejas74
-- ⚡ Fun fact: rico, guapo y mentiroso
-- 💬 Extra: free rapha, @enchalecado
+- 😄 Pronouns: rico, guapo y mentiroso
+- ⚡ Fun fact: I have a genuine copy of Windows 7 Home. 
+- ❗️ Extra: free rapha, @enchalecado
 
 ##  _ o / / \_ _/\   /
 
