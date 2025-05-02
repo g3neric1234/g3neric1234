@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I have a genuine copy of Windows 7 Home. 
 - ❗️ Extra: free rapha, @enchalecado
 
-[![yes](https://skillicons.dev/icons?i=js,html,css,js,bash,python,golang,c](https://skillicons.dev)
+[yes](https://skillicons.dev/icons?i=js,html,css,js,bash,python,golang,c)
 
 ##  _ o / / \_ _/\   /
 
