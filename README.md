@@ -4,6 +4,11 @@
 
 - 🔭 I’m currently working on "SMWC V1.3"
 - 🌱 I’m currently learning Golang, C & PHP
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=golang,c,php" />
+  </a>
+</p>
 - 👯 I’m looking to collaborate on LaMafiaDelHentai & LaGorraLeaks
 - 🤔 I’m looking for help with Defalt's Mom.
 - 💬 Ask me about electronics.
@@ -12,9 +17,10 @@
 - ⚡ Fun fact: I have a genuine copy of Windows 7 Home. 
 - ❗️  Extra: free rapha, @enchalecado
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bash,python,golang,c,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bash,python" />
   </a>
 </p>
 
