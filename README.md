@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I have a genuine copy of Windows 7 Home. 
 - ❗️  Extra: free rapha, @enchalecado
 
-
+<h1 align="center">What I know:</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bash,python" />
