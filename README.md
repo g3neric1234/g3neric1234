@@ -3,7 +3,7 @@
 ## Im g3neric, professional skidder, lammer & wife stealer
 
 - 🔭 I’m currently working on "SMWC V1.3"
-- 🌱 I’m currently learning Golang, C & PHP
+- 🌱 I’m currently learning Golang, C & PHP <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=golang,c,php" /></a>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=golang,c,php" />
