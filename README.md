@@ -3,7 +3,7 @@
 ## Im g3neric, professional skidder, lammer & wife stealer
 
 - 🔭 I’m currently working on "SMWC V1.3"
-- 🌱 I’m currently learning Golang, C & PHP <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=golang,c,php" style="width: 60%;" /></a>
+- 🌱 I’m currently learning Golang, C & PHP <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=golang,c,php" style="width: 10%;" /></a>
 - 👯 I’m looking to collaborate on LaMafiaDelHentai & LaGorraLeaks
 - 🤔 I’m looking for help with Defalt's Mom.
 - 💬 Ask me about electronics.
