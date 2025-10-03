@@ -2,7 +2,8 @@
 
 ## Im g3neric, professional skidder, lammer & wife stealer
 
-- 🔭 I’m currently working on "SMWC V1.3"
+- ⚠️ **SMWC V1.3 PAUSED**
+- 🔭 I’m currently working on BetterFit2.
 - 🌱 I’m currently learning <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=golang" style="width: 1%;" />Golang</a>, <img src="https://skillicons.dev/icons?i=c" style="width: 1%;" />C </a> & <img src="https://skillicons.dev/icons?i=php" style="width: 1%;" />PHP</a>
 - 👯 I’m looking to collaborate on LaMafiaDelHentai & LaGorraLeaks
 - 🤔 I’m looking for help with Defalt's Mom.
